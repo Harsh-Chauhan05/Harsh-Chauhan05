@@ -1,85 +1,81 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1150px" height="680px" font-size="16px">
-<style>
-@font-face {
-src: local('Consolas'), local('Consolas Bold');
-font-family: 'ConsolasFallback';
-font-display: swap;
--webkit-size-adjust: 109%;
-size-adjust: 109%;
-}
-.key {fill: #ffa657;}
-.value {fill: #a5d6ff;}
-.addColor {fill: #3fb950;}
-.delColor {fill: #f85149;}
-.cc {fill: #616e7f;}
-text, tspan {white-space: pre;}
-</style>
-<rect width="1150px" height="680px" fill="#161b22" rx="15"/>
-<text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">         #############+.                                  </tspan>
-<tspan x="15" y="45">      -###################-                               </tspan>
-<tspan x="15" y="60">    #####+.          .-######                             </tspan>
-<tspan x="15" y="75">   ####-                 .+####+                          </tspan>
-<tspan x="15" y="90">  ####.                     .#####-                       </tspan>
-<tspan x="15" y="105"> -###.                        .+####                      </tspan>
-<tspan x="15" y="120"> ###+             ....          .###                      </tspan>
-<tspan x="15" y="135"> ###.      .--++#######++-       +##                      </tspan>
-<tspan x="15" y="150"> ###.    -++##############+-     ###                      </tspan>
-<tspan x="15" y="165"> ###-   -++###############++.   +###                      </tspan>
-<tspan x="15" y="180"> ###+  -++###############++++   ####                      </tspan>
-<tspan x="15" y="195"> #### .-     .++###++.  ..--+. -###+                      </tspan>
-<tspan x="15" y="210"> #### -+-----...+##+--..-.-++-.-###+                      </tspan>
-<tspan x="15" y="225"> +###.-++----+#++###++++++++#++####-                      </tspan>
-<tspan x="15" y="240"> -###++########+###################                       </tspan>
-<tspan x="15" y="255">  ###+++#######++##################                       </tspan>
-<tspan x="15" y="270">  +###-++#####++--++#########+####.                       </tspan>
-<tspan x="15" y="285">   ###+-+++-...-+#+--+-..+++++####                        </tspan>
-<tspan x="15" y="300">   ####++++----######+++++#######-                        </tspan>
-<tspan x="15" y="315">    ###--+++++++++++#####++++####                         </tspan>
-<tspan x="15" y="330">    +##+---++++#######+++++++###.                         </tspan>
-<tspan x="15" y="345">     ###-....---+++++++---.-####                          </tspan>
-<tspan x="15" y="360">     +###-....         ....-+###+                         </tspan>
-<tspan x="15" y="375">    .####..............--+++  +###                        </tspan>
-<tspan x="15" y="390">   -###+   --.--++++++++##+-   +###                       </tspan>
-<tspan x="15" y="405">   ###-    .-----+++++###+      #####.                    </tspan>
-<tspan x="15" y="420">  ####     .------++++++          +#####                  </tspan>
-<tspan x="15" y="435">.####.   ....---+++++-               +#####.              </tspan>
-<tspan x="15" y="450">-#####-    .....--++++                   .+#####-         </tspan>
-<tspan x="15" y="465">#####+.       --+++++++-                      .+#####.    </tspan>
-<tspan x="15" y="480">#####.         - .+#####-                           +####-</tspan>
-<tspan x="15" y="495"> -####-                .###.                              .####</tspan>
-<tspan x="15" y="510">   +####.                    ..                                 .####</tspan>
-<tspan x="15" y="525">     #####.                                                           -###</tspan>
-<tspan x="15" y="540">      +###-                         +.                                   +##+</tspan>
-<tspan x="15" y="555">     .###.                          .                                     ###.</tspan>
-<tspan x="15" y="570">     ###-                                                                 -##</tspan>
-<tspan x="15" y="585">    ####                                                                  </tspan>
-<tspan x="15" y="600">   ####.                                                                  </tspan>
-<tspan x="15" y="615">     ##                                                                   </tspan>
-<tspan x="15" y="630">                 .##                                                      </tspan>
-</text>
-<text x="650" y="150" fill="#c9d1d9">
-<tspan x="650" y="150">shiv@Harsh-Chauhan05</tspan> -————————————————————————————————————————-—-
-<tspan x="650" y="170" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows, Android, Linux</tspan>
-<tspan x="650" y="190" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Gujarat Technological University (GTU)</tspan>
-<tspan x="650" y="210" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Computer Science Student</tspan>
-<tspan x="650" y="230" class="cc">. </tspan><tspan class="key">Interests</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Web Development, AI Media Generation</tspan>
-<tspan x="650" y="250" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VS Code</tspan>
-<tspan x="650" y="270" class="cc">. </tspan>
-<tspan x="650" y="290" class="cc">. </tspan><tspan class="key">Lang</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">JavaScript, PHP, MySQL</tspan>
-<tspan x="650" y="310" class="cc">. </tspan><tspan class="key">Lang</tspan>.<tspan class="key">Markup</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">HTML, CSS</tspan>
-<tspan x="650" y="330" class="cc">. </tspan><tspan class="key">Lang</tspan>.<tspan class="key">Spoken</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Gujarati, Hindi, English</tspan>
-<tspan x="650" y="350" class="cc">. </tspan>
-<tspan x="650" y="370" class="cc">. </tspan><tspan class="key">Projects</tspan>.<tspan class="key">Current</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">SLA Monitoring System</tspan>
-<tspan x="650" y="390" class="cc">. </tspan><tspan class="key">Projects</tspan>.<tspan class="key">Previous</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">E-Learn Portal, Dynamic PHP Blog</tspan>
-<tspan x="650" y="410" class="cc">. </tspan><tspan class="key">Topics</tspan>.<tspan class="key">Algorithms</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Kruskal, Prim, Huffman, LCS</tspan>
-<tspan x="650" y="430">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="650" y="450" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">Harsh-Chauhan05</tspan>
-<tspan x="650" y="470" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Gujarat, India</tspan>
-<tspan x="650" y="490">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
-<tspan x="650" y="510" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">{{REPO_COUNT}}</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">5</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">34</tspan>
-<tspan x="650" y="530" class="cc">. </tspan><tspan class="key">Commmits</tspan>:<tspan class="cc" id="commit_data_dots"> ................. </tspan><tspan class="value" id="commit_data">256</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ....... </tspan><tspan class="value" id="follower_data">15</tspan>
-<tspan x="650" y="550" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">14,250</tspan> ( <tspan class="addColor" id="loc_add">18,100</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">3,850</tspan><tspan class="delColor">--</tspan> )
-</text>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="760" viewBox="0 0 1280 760">
+<rect width="1280" height="760" rx="16" fill="#0d1117"/>
+<rect x="1" y="1" width="1278" height="758" rx="15" fill="none" stroke="#30363d"/>
+<rect x="1" y="1" width="1278" height="48" rx="15" fill="#161b22"/>
+<rect x="1" y="34" width="1278" height="15" fill="#161b22"/>
+<circle cx="24" cy="25" r="6" fill="#484f58"/><circle cx="45" cy="25" r="6" fill="#484f58"/><circle cx="66" cy="25" r="6" fill="#484f58"/>
+<text x="92" y="31" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="15px" font-weight="500" fill="#8b949e" xml:space="preserve">Harsh-Chauhan05@github</text>
+<text x="1100" y="31" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="13px" font-weight="400" fill="#8b949e" xml:space="preserve">profile.svg</text>
+<line x1="650" y1="70" x2="650" y2="710" stroke="#30363d"/>
+<text x="34" y="78" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="600" fill="#58a6ff" xml:space="preserve">harsh@github ~ $ ./profile --ascii</text>
+<text x="34" y="108.0" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                          #############+.                                            </text>
+<text x="34" y="120.7" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                       -###################-                                         </text>
+<text x="34" y="133.4" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                     #####+.          .-######                                       </text>
+<text x="34" y="146.1" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                    ####-                 .+####+                                    </text>
+<text x="34" y="158.8" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                   ####.                     .#####-                                 </text>
+<text x="34" y="171.5" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                  -###.                        .+####                                </text>
+<text x="34" y="184.2" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                  ###+             ....          .###                                </text>
+<text x="34" y="196.89999999999998" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                  ###.      .--++#######++-       +##                                </text>
+<text x="34" y="209.6" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                  ###.    -++##############+-     ###                                </text>
+<text x="34" y="222.3" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                  ###-   -++###############++.   +###                                </text>
+<text x="34" y="235.0" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                  ###+  -++###############++++   ####                                </text>
+<text x="34" y="247.7" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                  #### .-     .++###++.  ..--+. -###+                                </text>
+<text x="34" y="260.4" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                  #### -+-----...+##+--..-.-++-.-###+                                </text>
+<text x="34" y="273.1" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                  +###.-++----+#++###++++++++#++####-                                </text>
+<text x="34" y="285.79999999999995" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                  -###++########+###################                                 </text>
+<text x="34" y="298.5" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                   ###+++#######++##################                                 </text>
+<text x="34" y="311.2" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                   +###-++#####++--++#########+####.                                 </text>
+<text x="34" y="323.9" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                    ###+-+++-...-+#+--+-..+++++####                                  </text>
+<text x="34" y="336.6" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                    ####++++----######+++++#######-                                  </text>
+<text x="34" y="349.29999999999995" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                     ###--+++++++++++#####++++####                                   </text>
+<text x="34" y="362.0" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                     +##+---++++#######+++++++###.                                   </text>
+<text x="34" y="374.7" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                      ###-....---+++++++---.-####                                    </text>
+<text x="34" y="387.4" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                      +###-....         ....-+###+                                   </text>
+<text x="34" y="400.09999999999997" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                     .####..............--+++  +###                                  </text>
+<text x="34" y="412.79999999999995" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                    -###+   --.--++++++++##+-   +###                                 </text>
+<text x="34" y="425.5" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                    ###-    .-----+++++###+      #####.                              </text>
+<text x="34" y="438.2" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                   ####     .------++++++          +#####                            </text>
+<text x="34" y="450.9" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                 .####.   ....---+++++-               +#####.                        </text>
+<text x="34" y="463.59999999999997" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">               -#####-    .....--++++                   .+#####-                     </text>
+<text x="34" y="476.29999999999995" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">             #####+.       --+++++++-                      .+#####.                  </text>
+<text x="34" y="489.0" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">           #####.         - .+#####-                           +####-                </text>
+<text x="34" y="501.7" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">        -####-                .###.                              .####               </text>
+<text x="34" y="514.4" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">      +####.                    ..                                 .####             </text>
+<text x="34" y="527.0999999999999" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">    #####.                                                           -###            </text>
+<text x="34" y="539.8" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">   +###-                         +.                                   +##+           </text>
+<text x="34" y="552.5" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">  .###.                          .                                     ###.          </text>
+<text x="34" y="565.2" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">  ###-                                                                 -##           </text>
+<text x="34" y="577.9" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve"> ####                                                                                </text>
+<text x="34" y="590.5999999999999" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">####.                                                                                </text>
+<text x="34" y="603.3" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">  ##                                                                                 </text>
+<text x="34" y="616.0" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                                                                                     </text>
+<text x="34" y="628.6999999999999" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                                                                                     </text>
+<text x="34" y="641.4" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                                                                                     </text>
+<text x="34" y="654.1" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.3px" font-weight="400" fill="#f0f6fc" xml:space="preserve">                              .##                                                    </text>
+<text x="690" y="86" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="15px" font-weight="700" fill="#f0f6fc" xml:space="preserve">Harsh-Chauhan05 / README.md</text>
+<text x="690" y="114" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="13px" font-weight="400" fill="#8b949e" xml:space="preserve">────────────────────────────────────────────────────</text>
+<text x="690" y="144" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="700" fill="#f0883e" xml:space="preserve">Name</text><text x="810" y="144" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="400" fill="#f0f6fc" xml:space="preserve">: Harsh Chauhan</text>
+<text x="690" y="168" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="700" fill="#f0883e" xml:space="preserve">Handle</text><text x="810" y="168" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="400" fill="#58a6ff" xml:space="preserve">: @Harsh-Chauhan05</text>
+<text x="690" y="206" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="600" fill="#8b949e" xml:space="preserve">─ About ───────────────────────────────────────────</text>
+<text x="690" y="234" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="700" fill="#f0883e" xml:space="preserve">Role</text><text x="810" y="234" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="400" fill="#f0f6fc" xml:space="preserve">: Full Stack Developer</text>
+<text x="690" y="258" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="700" fill="#f0883e" xml:space="preserve">Education</text><text x="810" y="258" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="400" fill="#f0f6fc" xml:space="preserve">: IT Student @ GEC Modasa</text>
+<text x="690" y="300" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="600" fill="#8b949e" xml:space="preserve">─ Tech Stack ─────────────────────────────────────</text>
+<text x="690" y="328" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="700" fill="#f0883e" xml:space="preserve">Stack</text><text x="810" y="328" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.8px" font-weight="400" fill="#f0f6fc" xml:space="preserve">: React.js • Node.js • Express • MongoDB • MySQL</text>
+<text x="690" y="352" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="700" fill="#f0883e" xml:space="preserve">Languages</text><text x="810" y="352" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.8px" font-weight="400" fill="#f0f6fc" xml:space="preserve">: JavaScript • Java • HTML • CSS • JSON • OOP</text>
+<text x="690" y="376" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="700" fill="#f0883e" xml:space="preserve">Focus</text><text x="810" y="376" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="400" fill="#f0f6fc" xml:space="preserve">: Full-Stack • Real World Projects</text>
+<text x="690" y="418" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="600" fill="#8b949e" xml:space="preserve">─ Contact ─────────────────────────────────────────</text>
+<text x="690" y="446" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="700" fill="#f0883e" xml:space="preserve">Email.Personal</text><text x="850" y="446" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.5px" font-weight="400" fill="#58a6ff" xml:space="preserve">: harshkchauhan2005@gmail.com</text>
+<text x="690" y="470" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="700" fill="#f0883e" xml:space="preserve">LinkedIn</text><text x="850" y="470" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="400" fill="#58a6ff" xml:space="preserve">: harshchauhan-it</text>
+<text x="690" y="494" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="700" fill="#f0883e" xml:space="preserve">Github</text><text x="850" y="494" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="400" fill="#58a6ff" xml:space="preserve">: @Harsh-Chauhan05</text>
+<text x="690" y="518" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="700" fill="#f0883e" xml:space="preserve">Location</text><text x="850" y="518" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="12.8px" font-weight="400" fill="#f0f6fc" xml:space="preserve">: Ahemdabad, Gujarat, India</text>
+<text x="690" y="560" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="600" fill="#8b949e" xml:space="preserve">─ Featured ────────────────────────────────────────</text>
+<text x="690" y="588" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="13px" font-weight="700" fill="#8b949e" xml:space="preserve">01</text><text x="732" y="588" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="700" fill="#58a6ff" xml:space="preserve">Edusphere</text><text x="850" y="588" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="13px" font-weight="400" fill="#f0f6fc" xml:space="preserve">— E-learning platform</text>
+<text x="690" y="612" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="13px" font-weight="700" fill="#8b949e" xml:space="preserve">02</text><text x="732" y="612" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="700" fill="#58a6ff" xml:space="preserve">TicketIQ</text><text x="850" y="612" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="13px" font-weight="400" fill="#f0f6fc" xml:space="preserve">— Support &amp; SLA system</text>
+<text x="690" y="654" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="600" fill="#8b949e" xml:space="preserve">─ GitHub Stats ───────────────────────────────────</text>
+<text x="690" y="682" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="700" fill="#f0883e" xml:space="preserve">Repositories</text><text x="850" y="682" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="700" fill="#7ee787" xml:space="preserve">: 5</text>
+<text x="990" y="682" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="700" fill="#f0883e" xml:space="preserve">Stars</text><text x="1100" y="682" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="700" fill="#7ee787" xml:space="preserve">: 3</text>
+<text x="690" y="706" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="700" fill="#f0883e" xml:space="preserve">Followers</text><text x="850" y="706" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="700" fill="#7ee787" xml:space="preserve">: 2</text>
+<text x="990" y="706" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="700" fill="#f0883e" xml:space="preserve">Following</text><text x="1100" y="706" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="14px" font-weight="700" fill="#7ee787" xml:space="preserve">: 2</text>
+<text x="690" y="790" font-family="SFMono-Regular,Cascadia Code,Roboto Mono,Consolas,monospace" font-size="13px" font-weight="600" fill="#58a6ff" xml:space="preserve">github.com/Harsh-Chauhan05</text>
 </svg>
